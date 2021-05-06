@@ -97,7 +97,7 @@ author:
   name             : "돼아리"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : # "Korea"
+  location         : "Seoul, Korea"
   email            : iamlmj720@gmail.com
   links:
     - label: "Email"
