@@ -1,6 +1,6 @@
 ---
 title: "Reading"
 layout: category-Reading
-permalink: /ML/
+permalink: /Reading/
 author_profile: True
 ---
