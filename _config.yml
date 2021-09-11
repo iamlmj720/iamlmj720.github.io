@@ -294,4 +294,5 @@ defaults:
       comments: false
       share: true
       related: false
+      sidebar_main: true 
      
