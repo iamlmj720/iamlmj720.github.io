@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Posts"
     url: /year-archive/
-  - title: "Sitemap"
-    url: /sitemap/
   - title: "Publication"
     url: /publication/
+  - title: "Sitemap"
+    url: /sitemap/
