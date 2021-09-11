@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Catergories"
-    url: /catergories/
+  - title: "Categories"
+    url: /categories/
   - title: "Tags"
     url: /tags/
