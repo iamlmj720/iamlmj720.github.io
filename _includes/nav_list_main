@@ -31,7 +31,7 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
                     {% if category[0] == "Novel" %}
-                        <li><a href="/categories/Novel" class="">Novel ({{category[1].size}})</a></li>
+                        <li><a href="/categories/novel" class="">Novel ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -40,7 +40,7 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
                     {% if category[0] == "Self-help" %}
-                        <li><a href="/categories/Self-help" class="">Self-help book ({{category[1].size}})</a></li>
+                        <li><a href="/categories/self-help" class="">Self-help book ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -52,7 +52,7 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
                     {% if category[0] == "Economics" %}
-                        <li><a href="/categories/Economics" class="">Economics ({{category[1].size}})</a></li>
+                        <li><a href="/categories/economics" class="">Economics ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -61,7 +61,7 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
                     {% if category[0] == "Crpyto" %}
-                        <li><a href="/categories/Crpyto" class="">Crpyto ({{category[1].size}})</a></li>
+                        <li><a href="/categories/crpyto" class="">Crpyto ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
