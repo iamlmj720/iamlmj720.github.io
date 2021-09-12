@@ -8,4 +8,6 @@ layout: single
 
 ## iamlmj720.github.io 블로그
 
-공사중 .. 
+<img src="/assets/img/posts/hi.jpeg" width="100%" height="100%">
+
+공사중..
