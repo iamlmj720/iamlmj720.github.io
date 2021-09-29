@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "돼아리의 연구노트"
+title                    : "사진쟁이 공학자의 연구노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "돼아리"
-description              : "사진쟁이 공학자"
+name                     : "사진쟁이 공학자"
+description              : "-"
 url                      : "https://iamlmj720.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
