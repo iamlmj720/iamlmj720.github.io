@@ -7,7 +7,7 @@ sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.Economy %}
+{% assign posts = site.categories.economy %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
 
 
