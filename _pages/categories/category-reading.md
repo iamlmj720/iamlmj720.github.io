@@ -1,7 +1,7 @@
 ---
 title: "독서"
 layout: archive
-permalink: categories/reaidng
+permalink: categories/reading
 author_profile: true
 sidebar_main: true
 ---
