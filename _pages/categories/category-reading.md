@@ -1,5 +1,5 @@
 ---
-title: "독서"
+title: "Reading"
 layout: archive
 permalink: categories/reading
 author_profile: true
