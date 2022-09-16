@@ -6,7 +6,7 @@ toc_ads : true
 layout: single
 ---
 
-## iamlmj720.github.io 블로그
+## 이 블로그에 왜 오셨나요?
 
 <img src="/assets/img/posts/hi.jpeg" width="100%" height="100%">
 
