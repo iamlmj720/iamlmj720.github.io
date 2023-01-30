@@ -20,5 +20,3 @@ last_modified_at: 2022-09-16
 
 # Chapter
 ### Verse
-
-
