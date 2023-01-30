@@ -4,7 +4,7 @@ excerpt:
 header:
   teaser: /
 categories:
-  - Reading
+  - blog
 tags:
   - Reading
 published : true
