@@ -1,5 +1,5 @@
 ---
-title:  "2022-09-16-ReadingTemplate"
+title:  "연습하기"
 excerpt: 
 header:
   teaser: /
