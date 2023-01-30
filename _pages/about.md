@@ -6,8 +6,4 @@ toc_ads : true
 layout: single
 ---
 
-## 이 블로그에 왜 오셨나요?
-
-<img src="/assets/img/posts/hi.jpeg" width="100%" height="100%">
-
-
+## 공부하기 싫을 때 하는 블로그

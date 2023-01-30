@@ -20,7 +20,7 @@ title                    : "돼아리의 연구노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "돼아리"
-description              : "공부하기 싫을 때 하는 블로그"
+description              : "-"
 url                      : "https://iamlmj720.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "돼아리"
   avatar           : "/assets/img/posts/hi.jpeg"
-  bio              : "돼아리"
+  bio              : "공부하기 싫을 때 하는 블로그"
   location         : "Seoul, Korea"
   email            : iamlmj720@gmail.com
   links:
@@ -277,7 +277,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       show_data : true
       comments: true
       share: true
