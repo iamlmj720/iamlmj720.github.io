@@ -22,6 +22,3 @@ last_modified_at: 2022-09-16
 ### Verse
 
 
-
-![haha](../assets/img/2022-09-16-ReadingTemplate/haha.jpeg)
-
