@@ -21,4 +21,7 @@ last_modified_at: 2022-09-16
 # Chapter
 ### Verse
 
-* Test2
+
+
+![haha](../assets/img/2022-09-16-ReadingTemplate/haha.jpeg)
+
