@@ -4,13 +4,13 @@ excerpt: null
 header:
   teaser: /
 categories:
-  - Reading
+  - Newspaper
 tags:
-  - Reading
+  - Newspaper
 published: true
 toc: true
 toc_sticky: true
-toc_label: Reading
+toc_label: Newspaper
 date: {2023-03-06}
 last_modified_at: {}
 
