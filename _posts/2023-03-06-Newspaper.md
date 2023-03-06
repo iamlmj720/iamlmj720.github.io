@@ -10,7 +10,7 @@ tags:
 published: true
 toc: true
 toc_sticky: true
-toc_label: Reading
+toc_label: Newspaper
 date: {}
 last_modified_at: {}
 
