@@ -4,13 +4,13 @@ excerpt: null
 header:
   teaser: /
 categories:
-  - Newspaper
+  - Reading
 tags:
-  - Newspaper
+  - Reading
 published: true
 toc: true
 toc_sticky: true
-toc_label: Newspaper
+toc_label: Reading
 date: {}
 last_modified_at: {}
 
