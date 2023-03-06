@@ -29,4 +29,3 @@ last_modified_at: {}
 ["로봇이 곧 국가경쟁력 … 3년내 승부 난다"](https://www.mk.co.kr/today-paper/view/2023/5397964/)
 
 [고양이 죽자 "슬프다" 말한 AI…'의식'가진 행동일까](https://www.mk.co.kr/news/it/10668583)
-
