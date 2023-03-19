@@ -24,6 +24,12 @@ last_modified_at:
 
 [**혼돈의 금리 … 주담대 고정·변동 격차 사라져**](https://www.mk.co.kr/news/economy/10687374)
 
+
+
+[UBS Agrees to Buy Credit Suisse for More Than $3 Billion](https://www.wsj.com/articles/ubs-offers-1-billion-to-take-over-credit-suisse-bfac51fa)
+
+[Smaller Banks’ Critical Role in Economy Means Distress Raises Recession Risks](https://www.wsj.com/articles/smaller-banks-critical-role-in-economy-means-distress-raises-recession-risks-ba31e6a8?mod=economy_lead_story)
+
 # 금융
 
 [**올 종부세 부담 20% 이상 줄듯 … 은마·마래푸도 '세금 숨통'**](https://stock.mk.co.kr/news/view/68940)
@@ -41,6 +47,8 @@ last_modified_at:
 [**구글·애플 참전…'2%대' 폴더블폰 판 커진다**](https://www.mk.co.kr/news/it/10687278)
 
 [**中 저가 공세 … 국내 태양광 생태계 '흔들'**](https://www.mk.co.kr/news/business/10687343)
+
+[Netflix’s Ad Tier Hits 1 Million Users. Is That Good or Bad?](https://www.bloomberg.com/news/newsletters/2023-03-19/netflix-surpasses-1-million-users-for-its-advertising-business?srnd=industries-v2)
 
 # 부동산
 
