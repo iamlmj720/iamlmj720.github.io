@@ -1,7 +1,7 @@
 ---
 title: "Reading"
 layout: archive
-permalink: categories/reading
+permalink: /categories/reading
 author_profile: true
 sidebar_main: true
 ---

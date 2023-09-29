@@ -1,7 +1,7 @@
 ---
 title: "Newspaper"
 layout: archive
-permalink: categories/newspaper
+permalink: /categories/newspaper
 author_profile: true
 sidebar_main: true
 ---
