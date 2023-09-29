@@ -41,7 +41,6 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-
       </li>
   </ul>
 </nav>
