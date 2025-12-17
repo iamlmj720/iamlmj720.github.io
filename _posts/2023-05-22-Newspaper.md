@@ -52,3 +52,4 @@ last_modified_at:
 
 [US Expresses ‘Serious Concerns’ About China Move Against Micron](https://www.bloomberg.com/news/articles/2023-05-22/us-expresses-serious-concerns-about-china-move-against-micron?srnd=premium-asia)
 
+![DCAM0012](/Users/minjae/Documents/code/iamlmj720.github.io/img/2023-05-22-Newspaper/DCAM0012.JPG)
