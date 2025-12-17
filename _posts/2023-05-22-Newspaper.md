@@ -13,7 +13,7 @@ toc_sticky: true
 toc_label: Newspaper
 date: 2023-05-22
 last_modified_at: 
-Typora-root-url: ../
+typora-root-url: ../
 
 ---
 
