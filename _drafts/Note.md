@@ -17,4 +17,6 @@ typora-root-url: ../
 
 ---
 
-![haha](/img/2023-05-22-Newspaper/haha.jpeg)
+브랜치 최신화하기
+- git fetch
+- git pull origin
