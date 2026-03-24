@@ -268,6 +268,13 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  snapshots:
+    output: true
+    permalink: /snapshots/:title/
+
+
 # Defaults
 defaults:
   # _posts
@@ -300,4 +307,17 @@ defaults:
       share: true
       related: false
       sidebar_main: true
+  - scope:
+      path: ""
+      type: snapshots
+    values:
+      layout: snapshot
+      author_profile: false
+      read_time: false
+      show_date: true
+      comments: false
+      share: false
+      related: false
+      sidebar_main: false
+      classes: wide
      

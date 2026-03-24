@@ -4,5 +4,7 @@ main:
     url: /about/
   - title: "Categories"
     url: /categories/
+  - title: "Snapshots"
+    url: /snapshots/
   #- title: "Tags"
   #  url: /tags/
