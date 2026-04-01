@@ -21,12 +21,8 @@ layout: archive
             {% assign category_name = "독서모임" %}
           {% when "ArtHobby" %}
             {% assign category_name = "예술/취미" %}
-          {% when "Newspaper" %}
-            {% assign category_name = "뉴스" %}
           {% when "Electromagnetics" %}
             {% assign category_name = "전자기학" %}
-          {% when "Web" %}
-            {% assign category_name = "웹" %}
         {% endcase %}
         <li>
           <a href="#{{ category[0] | slugify }}">
@@ -48,12 +44,8 @@ layout: archive
           {% assign category_name = "독서모임" %}
         {% when "ArtHobby" %}
           {% assign category_name = "예술/취미" %}
-        {% when "Newspaper" %}
-          {% assign category_name = "뉴스" %}
         {% when "Electromagnetics" %}
           {% assign category_name = "전자기학" %}
-        {% when "Web" %}
-          {% assign category_name = "웹" %}
       {% endcase %}
       <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
         <h2 class="archive__subtitle">{{ category_name }}</h2>

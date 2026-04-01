@@ -3,9 +3,7 @@
 {% assign sum = site.posts | size %}
 {% assign reading_count = site.categories.Reading | default: '' | size %}
 {% assign art_hobby_count = site.categories.ArtHobby | default: '' | size %}
-{% assign newspaper_count = site.categories.Newspaper | default: '' | size %}
 {% assign electromagnetics_count = site.categories.Electromagnetics | default: '' | size %}
-{% assign web_count = site.categories.Web | default: '' | size %}
 {% assign daily_count = site.categories["일상"] | default: '' | size %}
 {% assign tra_count = site.categories.TRA | default: '' | size %}
 {% assign inverse_design_count = site.categories["Inverse design"] | default: '' | size %}
@@ -19,20 +17,23 @@
             📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> 
       </li>
       <li>
+        <span class="nav__sub-title">M</span>
+        <ul>
+          <li><a href="/categories/daily" class="">일상 ({{ daily_count }})</a></li>
+        </ul>
+      </li>
+      <li>
         <!--span 태그로 카테고리들을 크게 분류 -->
         <span class="nav__sub-title">독서</span>
         <ul>
           <li><a href="/categories/reading" class="">독서모임 ({{ reading_count }})</a></li>
           <li><a href="/categories/art-hobby" class="">예술/취미 ({{ art_hobby_count }})</a></li>
-          <li><a href="/categories/newspaper" class="">뉴스 ({{ newspaper_count }})</a></li>
-          <li><a href="/categories/electromagnetics" class="">전자기학 ({{ electromagnetics_count }})</a></li>
-          <li><a href="/categories/web" class="">웹 ({{ web_count }})</a></li>
         </ul>
       </li>
       <li>
-        <span class="nav__sub-title">M</span>
+        <span class="nav__sub-title">기초연구</span>
         <ul>
-          <li><a href="/categories/daily" class="">일상 ({{ daily_count }})</a></li>
+          <li><a href="/categories/electromagnetics" class="">전자기학 ({{ electromagnetics_count }})</a></li>
         </ul>
       </li>
       <li>
