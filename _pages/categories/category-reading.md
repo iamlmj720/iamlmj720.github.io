@@ -1,5 +1,5 @@
 ---
-title: "Reading"
+title: "독서모임"
 layout: archive
 permalink: /categories/reading
 author_profile: true
