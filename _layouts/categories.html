@@ -15,9 +15,22 @@ layout: archive
   {% for i in (1..categories_max) reversed %}
     {% for category in site.categories %}
       {% if category[1].size == i %}
+        {% assign category_name = category[0] %}
+        {% case category[0] %}
+          {% when "Reading" %}
+            {% assign category_name = "독서모임" %}
+          {% when "ArtHobby" %}
+            {% assign category_name = "예술/취미" %}
+          {% when "Newspaper" %}
+            {% assign category_name = "뉴스" %}
+          {% when "Electromagnetics" %}
+            {% assign category_name = "전자기학" %}
+          {% when "Web" %}
+            {% assign category_name = "웹" %}
+        {% endcase %}
         <li>
           <a href="#{{ category[0] | slugify }}">
-            <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+            <strong>{{ category_name }}</strong> <span class="taxonomy__count">{{ i }}</span>
           </a>
         </li>
       {% endif %}
@@ -29,8 +42,21 @@ layout: archive
 {% for i in (1..categories_max) reversed %}
   {% for category in site.categories %}
     {% if category[1].size == i %}
+      {% assign category_name = category[0] %}
+      {% case category[0] %}
+        {% when "Reading" %}
+          {% assign category_name = "독서모임" %}
+        {% when "ArtHobby" %}
+          {% assign category_name = "예술/취미" %}
+        {% when "Newspaper" %}
+          {% assign category_name = "뉴스" %}
+        {% when "Electromagnetics" %}
+          {% assign category_name = "전자기학" %}
+        {% when "Web" %}
+          {% assign category_name = "웹" %}
+      {% endcase %}
       <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
-        <h2 class="archive__subtitle">{{ category[0] }}</h2>
+        <h2 class="archive__subtitle">{{ category_name }}</h2>
         <div class="entries-{{ entries_layout }}">
           {% for post in category.last %}
             {% include archive-single.html type=entries_layout %}
