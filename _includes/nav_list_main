@@ -31,7 +31,7 @@
         </ul>
       </li>
       <li>
-        <span class="nav__sub-title">기초연구</span>
+        <span class="nav__sub-title">기초과목</span>
         <ul>
           <li><a href="/categories/electromagnetics" class="">전자기학 ({{ electromagnetics_count }})</a></li>
         </ul>
