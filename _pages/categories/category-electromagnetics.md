@@ -1,5 +1,5 @@
 ---
-title: "Electromagnetics"
+title: "전자기학"
 layout: archive
 permalink: /categories/electromagnetics
 author_profile: true
