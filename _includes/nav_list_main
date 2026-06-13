@@ -5,6 +5,7 @@
 {% assign art_hobby_count = site.categories.ArtHobby | default: '' | size %}
 {% assign electromagnetics_count = site.categories.Electromagnetics | default: '' | size %}
 {% assign side_project_count = site.categories.SideProject | default: '' | size %}
+{% assign web_count = site.categories.Web | default: '' | size %}
 
 <nav class="nav__list">
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
@@ -31,7 +32,7 @@
       <li>
         <span class="nav__sub-title">사이드 프로젝트</span>
         <ul>
-          <!-- 하위 카테고리는 나중에 추가 -->
+          <li><a href="/categories/web" class="">Web ({{ web_count }})</a></li>
         </ul>
       </li>
   </ul>

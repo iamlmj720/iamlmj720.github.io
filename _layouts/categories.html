@@ -25,6 +25,8 @@ layout: archive
             {% assign category_name = "전자기학" %}
           {% when "SideProject" %}
             {% assign category_name = "사이드 프로젝트" %}
+          {% when "Web" %}
+            {% assign category_name = "Web" %}
         {% endcase %}
         <li>
           <a href="#{{ category[0] | slugify }}">
