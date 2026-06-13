@@ -20,7 +20,7 @@ title                    : "돼아리의 연구노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "돼아리"
-description              : "-"
+description              : "읽은 책과 일상의 순간을 기록하는 공간. 독서 기록, 북피스트 독서모임 후기, 사진 스냅샷을 남깁니다."
 url                      : "https://iamlmj720.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
