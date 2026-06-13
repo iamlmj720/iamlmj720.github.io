@@ -1,10 +1,10 @@
 ---
-title: "전공노트"
+title: "전자기학"
 layout: archive
-permalink: /categories/major-notes
+permalink: /categories/electromagnetics
 author_profile: true
 sidebar_main: true
 ---
 
-{% assign posts = site.categories.MajorNotes %}
+{% assign posts = site.categories.Electromagnetics %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
