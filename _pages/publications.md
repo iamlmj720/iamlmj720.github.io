@@ -8,8 +8,6 @@ toc_sticky: true
 toc_label: "Publications"
 ---
 
-학술지에 발표한 논문 목록입니다. (밑줄/굵게 표시가 제 이름입니다.)
-
 ## Journal
 
 1. J. Kim, **M. Lee**, and S. Lim, "Discrete-Component-Free Metasurface Absorber with Broadband Switching via VO2-Driven Pattern-Level Sheet Resistance Control," *IEEE Transactions on Antennas and Propagation*, vol. 74, no. 6, pp. 5361–5375, 2026. [doi:10.1109/TAP.2026.3668865](https://doi.org/10.1109/TAP.2026.3668865)
